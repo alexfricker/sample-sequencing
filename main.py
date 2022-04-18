@@ -5,7 +5,7 @@ would check the execution plans and indexing strategies with execution time to w
 to use for python scripts
 """
 
-PERFORM_TESTS = True
+PERFORM_TESTS = False
 
 
 def load_raw_data():
