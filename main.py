@@ -42,7 +42,6 @@ def load_raw_data():
     if len(norm_data_raw) > 0 or len(mut_data_raw) > 0:
         """catch for files that do not end with an empty line"""
         test_cases_raw.append({"norm": norm_data_raw, "mut": mut_data_raw})
-    print(test_cases_raw)
     return test_cases_raw
 
 
