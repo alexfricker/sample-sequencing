@@ -163,7 +163,7 @@ def test_sample_mappings():
 
 
 def tests():
-    """ some sample unit testing - set flag at top of code to 'True' to run tests """
+    """some sample unit testing - set flag at top of code to 'True' to run tests"""
     print("Tests started..")
     test_sort_sample_ids()
     test_sample_mappings_no_mut()
